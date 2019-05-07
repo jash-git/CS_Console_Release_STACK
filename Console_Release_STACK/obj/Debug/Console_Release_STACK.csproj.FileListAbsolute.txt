@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\Console_Release_STACK\Console_Release_STACK\bin\Debug\Console_Release_STACK.exe.config
+C:\Users\jashliao\Desktop\Console_Release_STACK\Console_Release_STACK\bin\Debug\Console_Release_STACK.exe
+C:\Users\jashliao\Desktop\Console_Release_STACK\Console_Release_STACK\bin\Debug\Console_Release_STACK.pdb
+C:\Users\jashliao\Desktop\Console_Release_STACK\Console_Release_STACK\obj\Debug\Console_Release_STACK.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\Console_Release_STACK\Console_Release_STACK\obj\Debug\Console_Release_STACK.exe
+C:\Users\jashliao\Desktop\Console_Release_STACK\Console_Release_STACK\obj\Debug\Console_Release_STACK.pdb
